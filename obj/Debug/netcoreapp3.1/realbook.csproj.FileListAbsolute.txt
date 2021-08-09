@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.exe
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.deps.json
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.runtimeconfig.json
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.dll
+C:\Users\kotha\source\repos\realbook\bin\Debug\netcoreapp3.1\realbook.pdb
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.AssemblyInfo.cs
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.dll
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.pdb
+C:\Users\kotha\source\repos\realbook\obj\Debug\netcoreapp3.1\realbook.genruntimeconfig.cache
