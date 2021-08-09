@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kotha\\source\\repos\\realbook\\realbook.csproj": {}
+    "C:\\Users\\kotha\\source\\repos\\practiceon9\\realbook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kotha\\source\\repos\\realbook\\realbook.csproj": {
+    "C:\\Users\\kotha\\source\\repos\\practiceon9\\realbook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kotha\\source\\repos\\realbook\\realbook.csproj",
+        "projectUniqueName": "C:\\Users\\kotha\\source\\repos\\practiceon9\\realbook.csproj",
         "projectName": "realbook",
-        "projectPath": "C:\\Users\\kotha\\source\\repos\\realbook\\realbook.csproj",
+        "projectPath": "C:\\Users\\kotha\\source\\repos\\practiceon9\\realbook.csproj",
         "packagesPath": "C:\\Users\\kotha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kotha\\source\\repos\\realbook\\obj\\",
+        "outputPath": "C:\\Users\\kotha\\source\\repos\\practiceon9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kotha\\AppData\\Roaming\\NuGet\\NuGet.Config",
