@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.exe
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.deps.json
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.runtimeconfig.json
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.dll
+C:\Users\kotha\source\repos\today\bin\Debug\netcoreapp3.1\today.pdb
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.AssemblyInfo.cs
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.dll
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.pdb
+C:\Users\kotha\source\repos\today\obj\Debug\netcoreapp3.1\today.genruntimeconfig.cache
